@@ -1,0 +1,21 @@
+table{
+    padding:4px;
+}
+td{
+    padding:8px;
+}
+img{
+    border:2px solid black;
+}
+td{
+    color:orange;
+}
+h1{
+    color:brown;
+}
+tr{
+    padding:8px;
+}
+body{
+    background-image:linear-gradient(lightblue, lightgreen);
+}
